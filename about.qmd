@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Comentarios"
+image: xi.avif
 about:
   template: jolla
   links:
@@ -13,7 +13,17 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
+lang: es
 ---
+::: {style="text-align:justify"} 
+::: panel-tabset
+## Problemas en la ciencia
+Cervantes Hernández Perla Esmeralda
+Desde su comienzo la ciencia se ha visto rodeada de desafíos, unos más ligeros que otros, quizá en un principio se tenía más “libertad” en cuestiones de técnica y experimentación ya que no se tenían contemplados o más bien no sé conocían efectos negativos, con el paso del tiempo esta se ha visto limitada por ciertas razones, algunas de ellas en beneficio de la sociedad y naturaleza y algunas simplemente disfrazadas. Ha requerido de un largo proceso de modificaciones y transformaciones para su “correcto” desarrollo y sinergia con el ser humano, si bien es cierto que la ciencia nos ha permitido llegar hasta donde estamos y nos alumbra el camino para el futuro, actualmente su progreso se ve condicionado por múltiples aspectos.
+El hacer ciencia implica considerar muchas cosas, quizá habrá para quienes no represente un gran desafío por ejemplo poseen ilimitada disponibilidad de recursos materiales y económicos, pero, al menos los países en proceso de desarrollo y no desarrollados esto representa un reto. En el sentido de recursos, no es una mentira el decir que se le da prioridad a otras actividades, si, todas son importantes pero el desarrollo del saber y de la sociedad implica inversión, un precio que algunos no están dispuestos a pagar. Desafortunadamente esto también es una consecuencia de la irresponsabilidad y falta de ética pues se han presentado situaciones donde se han exhibido irregularidades o incluso falacias restándole puntos. 
+Actualmente la sociedad se desenvuelve principalmente mediante redes sociales y tecnologías lo cual permite tener acceso a un sinfín de información, representando una oportunidad de difusión de la ciencia, que esta pueda llegar a más gente de manera fácil y concreta, sin embargo, esto también ha permitido que cualquier persona difunda información y que los consumidores tengan acceso a ella sin darse a la tarea de investigar que tan verídica es. Además, cabe mencionar que los temas de interés son principalmente controversias, morbo y polémicas, temas de bajo o nulo aporte de conocimiento disminuyendo el interés por los temas que de verdad son relevantes y claro, esto esta relacionado con formación desde edad temprana. 
 
-About this blog
+## Comentario
+Considero
+:::
+:::

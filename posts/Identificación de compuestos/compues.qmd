@@ -1,5 +1,5 @@
 ---
-title: "Identificaciónd de compuestos"
+title: "Identificación de compuestos"
 author: "Perla C."
 date: "2024-08-12"
 categories: [Identificaciónd de compuestos]
