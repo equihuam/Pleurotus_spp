@@ -1,0 +1,13 @@
+---
+title: "Generalidades"
+author: "Perla C."
+date: "2024-08-15"
+categories: [Generalidades]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

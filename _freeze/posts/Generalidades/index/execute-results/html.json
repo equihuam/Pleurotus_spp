@@ -1,0 +1,15 @@
+{
+  "hash": "3930b0e6f5321183c2195a0bb0e2cef1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Generalidades\"\nauthor: \"Perla C.\"\ndate: \"2024-08-15\"\ncategories: [Generalidades]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
