@@ -6,8 +6,6 @@ categories: [Generalidades]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+::: {style="text-align:justify"}
+El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017).Estos hongos tienen aplicaciones biotecnológicas, medicinales y estéticas, sus bioactivos se han estudiado durante años por su potencial de aplicación en diversas áreas incluidas la alimentación y medicina (Juárez-Hernández *et al*., 2023).
+:::
