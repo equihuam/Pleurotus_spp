@@ -1,0 +1,45 @@
+---
+title: "Actividad nematicida"
+author: "Perla C."
+date: "2024-08-12"
+categories: [Actividad nematicida]
+lang: es
+---
+
+
+::: {style="text-align:justify"} 
+Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011. Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne* (@fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014)(. El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
+
+::: {style="text-align:center"}
+![*Meloidogyne paranaensis*. Fuente: Varón de Agudelo (2020)](nema.png){#fig-nema}
+:::
+
+
+# Efecto nematicida
+
+El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017). Este género de basidiomicetos posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos) (@armas-tizapantzi2019. Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas como se puede observar en la @tbl-compuestos (@li2014a.
+:::
+
+::: {style="text-align:center"}
+:Compuesto con actividad nematicida {#tbl-compuestos}
+
+|*Pleurotus pulmonarius*|*Pleurotus ostreatus*|*Pleurotus djamor*|
+|-----------------------|---------------------|------------------|
+|Ácido s-coriolico|Ácido trans-2-decenedioico| Ácidos grasos:
+|Ácido linoleico|-| Pentadecanoico
+|p-anisaldehído|-|Hexadecanoico
+|Alcohol p-anisílico|-|Octadecadenoico
+|1-(4- metoxifenil) 1|-|Octadecanoico
+|2-propanediol|-|Terpeno βsistosterol
+|2-hidroxi-(4-metoxi propiofenona)|
+|@stadler1994|@armas-tizapantzi2019|@pineda-alegría2017
+:::
+
+::: {style="text-align:justify"}
+Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus* (Cuevas, 2019;@pineda-alegría2017 y *M. javanica* (@sufiate2017 así como capacidad larvicida sobre *Globodera pallida* (@arteaga2020, *M. javanica* (@heydari2006, *Heterodera schachtii* (@palizi2009 y *M. enterolobii* (@gómez-rodríguez2022
+:::
+
+
+::: {style="text-align:center"}
+![*Pleurotus pulmonarius; P. ostretaus; P. djamor*. Fuente: iNaturalist, https://www.inaturalist.org/guide_taxa/498929; https://www.istockphoto.com/es/foto/seta-pleuroto-en-forma-de-ostra-gm503491608-82168369; https://www.reddit.com/r/mycology/comments/10h3x5k/pleurotus_djamor_oc/?rdt=52319](pleu2.png)
+:::
