@@ -9,3 +9,32 @@ image: "image.jpg"
 ::: {style="text-align:justify"}
 El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017).Estos hongos tienen aplicaciones biotecnológicas, medicinales y estéticas, sus bioactivos se han estudiado durante años por su potencial de aplicación en diversas áreas incluidas la alimentación y medicina (Juárez-Hernández *et al*., 2023).
 :::
+
+![*Pleurotus ostreatus*. Fuente: mycovital, https://www.mycovital.de/es/pleurotus/](p.png)
+
+
+::: {style="text-align:justify"}
+Los hongos de este género se caracterizan por formar setas (cuerpos fructíferos, esporomas, basidiomas o basidiocarpos) en forma de sombrilla (píleos) carnosos o membranosos y bordes lisos, aserrados o dentados, en el reverso del píleo se encuentran laminillas (himenio) y todo es sostenido por un eje (estípite) (Cuamatzi *et al.*, 2017).
+:::
+
+## Ciclo de vida
+
+::: {style="text-align:justify"}
+Se describe a partir del basidioma el cual produce esporas de origen sexual llamadas basidiosporas que contienen un solo núcleo haploide y que son dispersadas por el viento, insectos, agua u otros mecanismos, las basidiosporas en condiciones favorables germinan y originan hifas uninucleadas formando un micelio haploide genéticamente compatible para fusionarse y formar un micelio dicariótico. Cuando el micelio dicariótico entra en la fase reproductiva, las hifas empiezan a agregarse para formar un basidioma, la parte fértil del basidioma se encuentra en las láminas en donde algunas puntas hifales se convierten en basidios, que son células en las cuales se fusionan los núcleos de los micelios parentales para formar un núcleo diploide. Es en estos núcleos diploides donde ocurre la meiosis, dando por resultado la formación de cuatro núcleos haploides que llegarán a ser las basidiosporas uninucleadas que reiniciarán el ciclo de vida del hongo (Contreras\_, Del Olmo, García & Vidal *et al*., 2022).
+:::
+
+![Ciclo de vida *P. ostreatus*. Fuente: Mata y Salmones (2021).](ciclo.jpg)
+
+# Referencias
+
+::: {style="text-align:justify"}
+Contreras, M. N., Del Olmo, R. M., García, S. R., & Vidal, G. G. (2022). Pleurotus spp.., producción, cultivo y propiedades. En V. García Rubio, Potencialidades de la ovicultura y los hongos comestibles (Pleurotus spp..) en la seguidad alimentaria y el desarrollo rural (pp. 81-106). Laberinto Ediciones.
+
+Cuamatzi, F. J., Nava, G. S., Esquive, N. U., & Bibbins, M. M. (2017). La vida sexual de un hongo extraordinario llamado "Pleurotus". Frontera biotecnológica (8), 13-17.
+
+Juárez-Hernández, E. O., Pérez-Zavala, M. L., Román-Reyes, M., Barboza-Corona, J. E., & Macías-Sánchez, K. L. (2023). Overview of Pleurotus spp., edible fungi with various functional properties. International Food Research Journal, 30(5).
+
+Mata, G. & Salmones, D. eds. (2021). Protocolos de preparación de medios de cultivo. En G. Mata, & D. Salmones (Eds.), Técnicas de aislamiento, cultivo y conservación de cepas de hongos en el laboratorio (pp. 131-153). Instituto de Ecología, A.C.
+
+Salmones, D., & Mata, G. (2017). Recursos genéticos del género Pleurotus. En J. Sánchez, & D. Royse, La Biología, el cultivo y las propiedades nutricionales y medicinales de las setas Pleurotus spp.. (pp. 29-52). El Colegio de la Frontera Sur.
+:::
