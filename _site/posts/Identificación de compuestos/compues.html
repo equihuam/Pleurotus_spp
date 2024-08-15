@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Perla C.">
+<meta name="dcterms.date" content="2024-08-12">
 
-<title>Pleurotus spp.</title>
+<title>Pleurotus spp. - Identificaciónd de compuestos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -55,101 +55,43 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
-    "search-matching-documents-text": "documentos encontrados",
-    "search-copy-link-title": "Copiar el enlace en la búsqueda",
-    "search-hide-matches-text": "Ocultar resultados adicionales",
-    "search-more-match-text": "resultado adicional en este documento",
-    "search-more-matches-text": "resultados adicionales en este documento",
-    "search-clear-button-title": "Borrar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Buscar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title"><em>Pleurotus</em> spp.</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Buscar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -172,143 +114,58 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title"><em>Pleurotus</em> spp.</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Identificaciónd de compuestos</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Identificaciónd de compuestos</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Perla C. </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 12, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Actividad nematicida">Actividad nematicida <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Generalidades">Generalidades <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Identificaciónd de compuestos">Identificaciónd de compuestos <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<div style="text-align:justify">
+<p>Los metabolitos secundarios son compuestos químicos sintetizados por el mismo organismo que cumplen funciones no esenciales para el crecimiento, desarrollo o reproducción. Existen alrededor de 1200 compuestos catalogados como metabolitos secundarios clasificados en productos nitrogenados, fenoles, terpenos, entre otros (Taiz y Zeiger 2006; Sepúlveda-Vázquez, Torres-Acosta <em>et al</em>., 2018).). Estas moléculas desempeñan un papel importante en la industria debido a que poseen propiedades nutraceúticas, antibióticas, antifúngicas, antivirales y alelopáticas (Bourgaud, 2001; Ávalos y Pérez-Urria, 2009). Existen diversos métodos para la extracción de bioactivos basados en las diferentes solubilidades de los compuestos según la polaridad (Sierra-Sarmiento <em>et al</em>., 2018).</p>
+<p>En el presente escrito se describirán las técnicas de extracción e identificación de bioactivos: cromatografía de líquidos de alto rendimiento (HPLC), cromatografía de gases y espectrometría de masas (GC/MS), cromatografía de capa fina (TLC) y resonancia magnética nuclear (RMN) empleadas en Pleurotus ssp. y los estudios en los que se han evaluado para diferentes áreas de investigación.</p>
+<section id="extractos-y-solventes" class="level1">
+<h1>Extractos y solventes</h1>
+<p>La extracción por solventes permite una recuperación del 95%. Se emplean disolventes derivados del petróleo (acetona, heptano, hexano, benceno) (Giraldo <em>et al</em>., 2010). Se basan principalmente en la maceración de la materia vegetal con los diferentes solventes y posteriormente su eliminación. Algunos de los extractos más empleados son los etanólicos; se obtienen a partir de la mezcla del material con etanol a una concentración determinada (Carbay y Sorroza, 2019), hidroalcohólicos; empleando una solución de agua:metanol a una relación determinada para finalmente retirar el solvente por filtración y liofilización (Morales-Ubaldo <em>et al</em>., 2020), hexánicos; maceración con hexano a una concentración determinada (Centurión-Hidalgo <em>et al</em>., 2013), butanol, clorofórmico; material vegetal seco y extracción con cloroformo (Marrero <em>et al</em>., 2017), acetato de etilo, metanol, acetona, benceno etc., incluso se emplean extractos donde se mezclan diferentes disolventes.</p>
+</section>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Generalidades" data-listing-date-sort="1723701600000" data-listing-file-modified-sort="1723754845778" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="471">
-<div class="thumbnail">
-<p><a href="./posts/Generalidades/gene.html" class="no-external"></a></p><a href="./posts/Generalidades/gene.html" class="no-external">
-<p class="card-img-top"><img src="posts\Generalidades\p.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/Generalidades/gene.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Generalidades/gene.html" class="no-external">Generalidades</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Generalidades/gene.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Generalidades'); return false;">
-Generalidades
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/Generalidades/gene.html" class="no-external">El género <em>Pleurotus</em> está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno…<em></em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Generalidades/gene.html" class="no-external">
-<div class="listing-date">
-15 ago 2024
-</div>
-<div class="listing-author">
-Perla C.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Actividad nematicida" data-listing-date-sort="1723442400000" data-listing-file-modified-sort="1723755055903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
-<div class="thumbnail">
-<p><a href="./posts/Actividad nematicida/actividad nem.html" class="no-external"></a></p><a href="./posts/Actividad nematicida/actividad nem.html" class="no-external">
-<p class="card-img-top"><img src="posts\Actividad nematicida\nema.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/Actividad nematicida/actividad nem.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Actividad nematicida/actividad nem.html" class="no-external">Actividad nematicida</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Actividad nematicida/actividad nem.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Actividad nematicida'); return false;">
-Actividad nematicida
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/Actividad nematicida/actividad nem.html" class="no-external">Los nematodos fitoparásitos son organismos multicelulares pertenecientes al <em>Phylum</em> Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor…<span class="citation" data-cites="perry2011"></span><em></em><em></em><span class="citation" data-cites="pineda-alegría2017"></span></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Actividad nematicida/actividad nem.html" class="no-external">
-<div class="listing-date">
-12 ago 2024
-</div>
-<div class="listing-author">
-Perla C.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Identificaciónd de compuestos" data-listing-date-sort="1723442400000" data-listing-file-modified-sort="1723755613735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="290">
-<div class="thumbnail">
-<p><a href="./posts/Identificación de compuestos/compues.html" class="no-external"></a></p><a href="./posts/Identificación de compuestos/compues.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/Identificación de compuestos/compues.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Identificación de compuestos/compues.html" class="no-external">Identificaciónd de compuestos</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Identificación de compuestos/compues.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Identificaciónd de compuestos'); return false;">
-Identificaciónd de compuestos
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/Identificación de compuestos/compues.html" class="no-external">Los metabolitos secundarios son compuestos químicos sintetizados por el mismo organismo que cumplen funciones no esenciales para el crecimiento, desarrollo o reproducción.…<em></em><em></em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Identificación de compuestos/compues.html" class="no-external">
-<div class="listing-date">
-12 ago 2024
-</div>
-<div class="listing-author">
-Perla C.
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No hay resultados
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -363,12 +220,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copiado");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copiado");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",

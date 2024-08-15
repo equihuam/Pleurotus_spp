@@ -1,0 +1,18 @@
+---
+title: "Identificaciónd de compuestos"
+author: "Perla C."
+date: "2024-08-12"
+categories: [Identificaciónd de compuestos]
+---
+
+::: {style="text-align:justify"} 
+Los metabolitos secundarios son compuestos químicos sintetizados por el mismo organismo que cumplen funciones no esenciales para el crecimiento, desarrollo o reproducción. Existen alrededor de 1200 compuestos catalogados como metabolitos secundarios clasificados en productos nitrogenados, fenoles, terpenos, entre otros (Taiz y Zeiger 2006; Sepúlveda-Vázquez, Torres-Acosta _et al_., 2018).). Estas moléculas desempeñan un papel importante en la industria debido a que poseen propiedades nutraceúticas, antibióticas, antifúngicas, antivirales y alelopáticas (Bourgaud, 2001; Ávalos y Pérez-Urria, 2009). Existen diversos métodos para la extracción de bioactivos basados en las diferentes solubilidades de los compuestos según la polaridad (Sierra-Sarmiento _et al_., 2018). 
+
+En el presente escrito se describirán las técnicas de extracción e identificación de bioactivos: cromatografía de líquidos de alto rendimiento (HPLC), cromatografía de gases y espectrometría de masas (GC/MS), cromatografía de capa fina (TLC) y resonancia magnética nuclear (RMN) empleadas en Pleurotus ssp. y los estudios en los que se han evaluado para diferentes áreas de investigación.
+
+
+# Extractos y solventes 
+
+La extracción por solventes permite una recuperación del 95%. Se emplean disolventes derivados del petróleo (acetona, heptano, hexano, benceno) (Giraldo _et al_., 2010). Se basan principalmente en la maceración de la materia vegetal con los diferentes solventes y posteriormente su eliminación. Algunos de los extractos más empleados son los etanólicos; se obtienen a partir de la mezcla del material con etanol a una concentración determinada (Carbay y Sorroza, 2019), hidroalcohólicos; empleando una solución de agua:metanol a una relación determinada para finalmente retirar el solvente por filtración y liofilización (Morales-Ubaldo _et al_., 2020), hexánicos; maceración con hexano a una concentración determinada (Centurión-Hidalgo _et al_., 2013), butanol, clorofórmico; material vegetal seco y extracción con cloroformo (Marrero _et al_., 2017), acetato de etilo, metanol, acetona, benceno etc., incluso se emplean extractos donde se mezclan diferentes disolventes. 
+::: 
+
