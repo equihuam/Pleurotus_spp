@@ -3,7 +3,7 @@ title: "Generalidades"
 author: "Perla C."
 date: "2024-08-15"
 categories: [Generalidades]
-image: "image.jpg"
+lang: es 
 ---
 
 ::: {style="text-align:justify"}
