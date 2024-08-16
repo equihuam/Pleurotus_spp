@@ -15,7 +15,30 @@ lang: es
 image: pleu2.png
 ---
 
-##Introducción 
+## Nematodos fitoparásitos
+
+Pertenecientes al _Phylum_ Nematoda definidos como animales filiformes con cuerpo sin segmentos, cubiertos de una cutícula hialina compuesta por cinco capas.
+
+![_Meloidogyne paranaensis_. Fuente: Rodríguez-Málaga _et al_., 2022.](nema1.jpg)
+
+
+## Nematodos fitoparásitos
+
+-Redondeados en sección transversal
+
+-Con cavidad bucal
+
+-Sin extremidades u otros apéndices
+
+-Tamaño entre 200 y 6000 µm de longitud
+
+-Especializados o con amplia gama de hospederos
+
+-Capacidad de atacar raíces, yemas, tallos, troncos, hojas, semillas y flores 
+
+![Corte longitudinal de raíz con hembras de M. paranaensis. Fuente: López-Lima _et al_.,2015.](m.jpg)
+
+(Guzmán et al., 2012). 
 
 
 ## *Pleurotus*
@@ -37,5 +60,4 @@ Se han reportado más de 200 moléculas con actividad nematicida y 23 especies d
 ![Toxocisto *P. ostreatus* en placa en PDA. Fuente: Armas _et al_., 2019.](toxo.jpg)
 
 
-## .
-lkma
+## 
