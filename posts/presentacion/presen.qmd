@@ -1,28 +1,25 @@
 ---
-title: "_Pleurotus_ spp."
-listening:
-  contensts: post
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
-categories: [Presentación]
-format: revealjs
-footer: "[Principal](../../index.qmd)"
-title-slide-attributes: 
+title: "Actividad nematicida de _Pleurotus_ spp."
+author: "Perla C."
+format:
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
+
+title-slide-attributes:
   data-background-image: "p.jpg"
   data-background-size: "100%"
-  data-background-opacity: "30%"
+  data-background-opacity: "50%"
+
+lang: es
+
+image: pleu2.png
 ---
 
 ## Nematodos fitoparásitos
 
 Pertenecientes al _Phylum_ Nematoda definidos como animales filiformes con cuerpo sin segmentos, cubiertos de una cutícula hialina compuesta por cinco capas.
 
-![_Meloidogyne paranaensis_. Fuente: Rodríguez-Málaga _et al_., 2022.](nema1.jpg)
+![_Meloidogyne paranaensis_. Fuente: Rodríguez-Málaga _et al_., 2022](nema1.jpg)
 
 
 ## Nematodos fitoparásitos
@@ -35,17 +32,29 @@ Pertenecientes al _Phylum_ Nematoda definidos como animales filiformes con cuerp
 
 -Capacidad de atacar raíces, yemas, tallos, troncos, hojas, semillas y flores 
 
-![Agallas en raíz de tomate por _M. paranaensis_. Fuente: Cervantes-Hernández, 2022.](r.jpg)
+![Agallas en raíz de tomate por _M. paranaensis_. Fuente: Cervantes-Hernández, 2022](r.jpg)
 
-(Guzmán _et al_., 2012). 
+(Guzmán _et al_., 2012)
 
+## Control biológico de nematodos fitoparásitos
+Hongos nematófagos
+
+Organismos que poseen la capacidad de parasitar diferentes estadios de nematodos y pueden cultivarse en laboratorio.
+
+Atrapadores--Endoparásitos--Productores de toxinas 
+
+![](2.jpg)
+
+(Quevedo _et al_., 2022)
 
 ## *Pleurotus*
 
 ::: {style="text-align:justify"}
 Constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente
 
-(Salmones y Mata, 2017).
+![_Pleurotus djamor_ var. _salmoneostramineus_. Fotografía: Salmones, 2023](dj.jpg)
+
+(Salmones y Mata, 2017)
 :::
 
 ## Capacidad nematicida
