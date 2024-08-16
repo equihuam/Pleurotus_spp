@@ -4,6 +4,8 @@ author: "Perla C."
 date: "2024-08-12"
 categories: [Actividad nematicida]
 lang: es
+bibliography: references.bib
+csl: Apa
 ---
 
 
@@ -43,3 +45,11 @@ Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición 
 ::: {style="text-align:center"}
 ![*Pleurotus pulmonarius; P. ostretaus; P. djamor*. Fuente: iNaturalist, https://www.inaturalist.org/guide_taxa/498929; https://www.istockphoto.com/es/foto/seta-pleuroto-en-forma-de-ostra-gm503491608-82168369; https://www.reddit.com/r/mycology/comments/10h3x5k/pleurotus_djamor_oc/?rdt=52319](pleu2.png)
 :::
+
+
+::: {style="text-align:justify"}
+_Pleurotus_ spp. es una fuente potencial de bioactivos para diferentes áreas: salud humana y animal, sector agrícola, industria y medio ambiente. Existen múltiples investigaciones reportando concentraciones, técnicas y metabolitos secundarios que son la base para el seguimiento ya no sólo a nivel in vitro sino para evaluar a un nivel in vivo, ampliando así el panorama de las líneas de investigación a las que puede aplicar. Con base en esto, los resultados de este proyecto contribuirán al desarrollo de estrategias de manejo integrado de nematodos fitoparásitos empleando especies del género.
+::: 
+
+
+
