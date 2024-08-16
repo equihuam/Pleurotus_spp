@@ -30,8 +30,9 @@ Es una espectroscopía de absorción, cuyo fundamento radica en la propiedad que
 ::: 
 
 ::: {style="text-align:justify"} 
-Los basidiomicetos poseen un sistema multienzimático ligninolítico oxidativo que degrada lignina, destacándose las especies de Pleurotus por su eficiencia en degradarla de las paredes celulares de las plantas, provocando reacciones oxidativas que descomponen y mineralizan los componentes celulares por la acción de diversas enzimas extracelulares como: lacasas, manganeso peroxidasa y lignina peroxidasa, entre otras, además de también producir enzimas que descomponen de manera eficaz la celulosa y la hemicelulosa, los bioactivos producidos dependerán de la etapa fenológica empleada para los extractos (Sánchez, 2009; Mata _et al_., 2017; Bermúdez-Savon _et al_., 2023). Con base en ello, se han realizado diferentes investigaciones en búsqueda de bioactivos que beneficien al ser humano, sector agrícola, nutraceútica, medio ambiente y actividades económicas (Thirumurugan _et al_.,2018; Lustre, 2022). 
+Los basidiomicetos poseen un sistema multienzimático ligninolítico oxidativo que degrada lignina, destacándose las especies de Pleurotus por su eficiencia en degradarla de las paredes celulares de las plantas, provocando reacciones oxidativas que descomponen y mineralizan los componentes celulares por la acción de diversas enzimas extracelulares como: lacasas, manganeso peroxidasa y lignina peroxidasa, entre otras, además de también producir enzimas que descomponen de manera eficaz la celulosa y la hemicelulosa, los bioactivos producidos dependerán de la etapa fenológica empleada para los extractos (Sánchez, 2009; Mata _et al_., 2017; Bermúdez-Savon _et al_., 2023). Con base en ello, se han realizado diferentes investigaciones en búsqueda de bioactivos que beneficien al ser humano, sector agrícola, nutraceútica, medio ambiente y actividades económicas (Thirumurugan _et al_., 2018; Lustre, 2022). 
 :::
+
 
 ::: panel-tabset
 ## Sector agropecuario
@@ -40,17 +41,16 @@ Identificación de monosacáridos (maltosa, glucosa, manosa y fructosa) en _P. o
 ## Biorremediadores 
 Degradación de contaminantes aromáticos fenólicos y no fenólicos en cultivos líquidos y sólidos en _P. eryngii, P. ostreatus, P. pulmonarius_ y _P. sajor-caju_ (Rodríguez _et al_., 2004). 
 
-Biorremediador de oxitetraciclina y ciprofloxacina 
+Biorremediador de oxitetraciclina y ciprofloxacina.
 
 ## Propiedades nutracéuticas
-Identificación de actividad antioxidante y antiinflamatoria 
+Identificación de actividad antioxidante y antiinflamatoria. 
 
-Evaluación de composición de ácidos grasos 
+Evaluación de composición de ácidos grasos.
 
 ## Medicina
 Propiedades antioxidantes, anticancerígenas, antimicrobianas, antidiabéticas, antitumorales e inmunomoduladoras (Deepalakshmi & Sankaran, 2014).
 :::
-
 
 # Referencias
 Bermúdez-Savon, R., García-Oduardo, N., Aguilera-Rodríguez, I., & Mendoza-Montero, Y. (2023). Biodegradación de residuos lignocelulósicos secundarios por Pleurotus spp.. Tecnología Química, 43(1), 157-172.
