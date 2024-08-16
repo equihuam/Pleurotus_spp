@@ -1,16 +1,9 @@
 ---
 title: "Actividad nematicida de _Pleurotus_ spp."
 author: "Perla C."
-contensts: post
-sort: "date desc"
-type: default
-categories: true
-sourt-ui: false
-page-layout: full
-title-block-banner: true
-categories: [Presentación: Actividad nematicida de _Pleurotus_ spp.]
-format: revealjs
-footer: "[inicio](../../index.qmd)"
+format: 
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
 
 title-slide-attributes: 
   data-background-image: "p.jpg"
@@ -21,15 +14,14 @@ lang: es
 
 image: pleu2.png
 ---
-## _Pleurotus_
-::: {style="text-align:justify"}
-Constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente 
 
+## *Pleurotus*
+
+::: {style="text-align:justify"}
+Constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente
 
 (Salmones y Mata, 2017).
 :::
-
-
 
 ## Capacidad nematicida
 
@@ -39,8 +31,5 @@ Constituido por diversas especies comestibles que son cultivadas experimental y 
 Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas
 :::
 
-![Toxocisto *P. ostreatus* en placa en PDA](toxo.jpg)
-
-
-## hola 
- 
+![Toxocisto *P. ostreatus* en placa en PDA. Fuente: Armas _et al_., 2019.](toxo.jpg)
+## .
