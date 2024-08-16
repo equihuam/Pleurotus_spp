@@ -10,10 +10,10 @@ csl: Apa
 
 
 ::: {style="text-align:justify"} 
-Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011. Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne* (@fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014)(. El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
+Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011. Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne* (@fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014). El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
 
 ::: {style="text-align:center"}
-![*Meloidogyne paranaensis*. Fuente: Varón de Agudelo (2020)](nema.png){#fig-nema}
+![*Meloidogyne paranaensis*. Fuente: Varón de Agudelo (2020).](nema.png){#fig-nema}
 :::
 
 
@@ -38,7 +38,7 @@ El género *Pleurotus* está constituido por diversas especies comestibles que s
 :::
 
 ::: {style="text-align:justify"}
-Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus* (Cuevas, 2019;@pineda-alegría2017 y *M. javanica* (@sufiate2017 así como capacidad larvicida sobre *Globodera pallida* (@arteaga2020, *M. javanica* (@heydari2006, *Heterodera schachtii* (@palizi2009 y *M. enterolobii* (@gómez-rodríguez2022
+Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus* (Cuevas, 2019; @pineda-alegría2017 y *M. javanica* (@sufiate2017 así como capacidad larvicida sobre *Globodera pallida* (@arteaga2020, *M. javanica* (@heydari2006, *Heterodera schachtii* (@palizi2009 y *M. enterolobii* (@gómez-rodríguez2022.
 :::
 
 
@@ -48,7 +48,7 @@ Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición 
 
 
 ::: {style="text-align:justify"}
-_Pleurotus_ spp. es una fuente potencial de bioactivos para diferentes áreas: salud humana y animal, sector agrícola, industria y medio ambiente. Existen múltiples investigaciones reportando concentraciones, técnicas y metabolitos secundarios que son la base para el seguimiento ya no sólo a nivel in vitro sino para evaluar a un nivel in vivo, ampliando así el panorama de las líneas de investigación a las que puede aplicar. Con base en esto, los resultados de este proyecto contribuirán al desarrollo de estrategias de manejo integrado de nematodos fitoparásitos empleando especies del género.
+_Pleurotus_ spp. es una fuente potencial de bioactivos para diferentes áreas: salud humana y animal, sector agrícola, industria y medio ambiente. Existen múltiples investigaciones reportando concentraciones, técnicas y metabolitos secundarios que son la base para el seguimiento ya no sólo a nivel _in vitro_ sino para evaluar a un nivel _in vivo_, ampliando así el panorama de las líneas de investigación a las que puede aplicar. 
 ::: 
 
 
