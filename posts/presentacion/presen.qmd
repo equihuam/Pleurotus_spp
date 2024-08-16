@@ -1,11 +1,11 @@
 ---
 title: "Actividad nematicida de _Pleurotus_ spp."
 author: "Perla C."
-format: 
+format:
   revealjs:
     footer: "[inicio](../../index.qmd)"
 
-title-slide-attributes: 
+title-slide-attributes:
   data-background-image: "p.jpg"
   data-background-size: "100%"
   data-background-opacity: "50%"
@@ -26,17 +26,13 @@ Pertenecientes al _Phylum_ Nematoda definidos como animales filiformes con cuerp
 
 -Redondeados en sección transversal
 
--Con cavidad bucal
-
--Sin extremidades u otros apéndices
-
 -Tamaño entre 200 y 6000 µm de longitud
 
 -Especializados o con amplia gama de hospederos
 
 -Capacidad de atacar raíces, yemas, tallos, troncos, hojas, semillas y flores 
 
-![Corte longitudinal de raíz con hembras de M. paranaensis. Fuente: López-Lima _et al_.,2015.](m.jpg)
+![Agallas en raíz de tomate por _M. paranaensis_. Fuente: Cervantes-Hernández, 2022.](r.jpg)
 
 (Guzmán et al., 2012). 
 
