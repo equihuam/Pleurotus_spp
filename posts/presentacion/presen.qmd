@@ -1,9 +1,16 @@
 ---
 title: "Actividad nematicida de _Pleurotus_ spp."
 author: "Perla C."
-format: 
-  revealjs:
-    footer: "[inicio](../../index.qmd)"
+contensts: post
+sort: "date desc"
+type: default
+categories: true
+sourt-ui: false
+page-layout: full
+title-block-banner: true
+categories: [Presentación: Actividad nematicida de _Pleurotus_ spp.]
+format: revealjs
+footer: "[inicio](../../index.qmd)"
 
 title-slide-attributes: 
   data-background-image: "p.jpg"
