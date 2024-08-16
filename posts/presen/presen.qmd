@@ -1,4 +1,0 @@
----
-title: "Presentación"
-format: revealjs
----
