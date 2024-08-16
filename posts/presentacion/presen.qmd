@@ -62,7 +62,7 @@ Constituido por diversas especies comestibles que son cultivadas experimental y 
 ::: {style="text-align:justify"}
 *Pleurotus* posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos).
 
-Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas.
+Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas.   
 :::
 
 ![Toxocisto *P. ostreatus* en placa en PDA. Fuente: Armas _et al_., 2019.](toxo.jpg)
