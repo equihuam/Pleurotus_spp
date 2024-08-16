@@ -14,5 +14,26 @@ lang: es
 
 image: pleu2.png
 ---
+## _Pleurotus_
+::: {style="text-align:justify"}
+Constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente 
 
-## intro 
+
+(Salmones y Mata, 2017).
+:::
+
+
+
+## Capacidad nematicida
+
+::: {style="text-align:justify"}
+*Pleurotus* posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos).
+
+Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas
+:::
+
+![Toxocisto *P. ostreatus* en placa en PDA](toxo.jpg)
+
+
+## hola 
+ 
