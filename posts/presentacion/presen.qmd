@@ -1,18 +1,21 @@
 ---
-title: "Actividad nematicida de _Pleurotus_ spp."
-author: "Perla C."
-format:
-  revealjs:
-    footer: "[inicio](../../index.qmd)"
-
-title-slide-attributes:
+title: "_Pleurotus_ spp."
+listening:
+  contensts: post
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+categories: [Presentación]
+format: revealjs
+footer: "[Principal](../../index.qmd)"
+title-slide-attributes: 
   data-background-image: "p.jpg"
   data-background-size: "100%"
-  data-background-opacity: "50%"
-
-lang: es
-
-image: pleu2.png
+  data-background-opacity: "30%"
 ---
 
 ## Nematodos fitoparásitos
