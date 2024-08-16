@@ -1,0 +1,16 @@
+---
+title: "Actividad nematicida de _Pleurotus_ spp."
+author: "Perla C."
+format: 
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
+
+title-slide-attributes: 
+  data-background-image: "p.jpg"
+  data-background-size: "100%"
+  data-background-opacity: "50%"
+
+lang: es
+
+image: pleu2.png
+---
