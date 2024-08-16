@@ -1,6 +1,9 @@
 ---
-title: "presentación"
-format: revealjs
+title: "Actividad nematicida de _Pleurotus_ spp."
+author: "Perla C."
+format: 
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
 ---
 
 ## intro 
